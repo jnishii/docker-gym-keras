@@ -1,0 +1,11 @@
+# openAI Gym requirements
+imageio
+PyOpenGL
+piglet
+pyglet
+
+# openAI Gym
+gym[all]
+
+# PyGame
+pygame
