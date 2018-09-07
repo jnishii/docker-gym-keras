@@ -32,7 +32,7 @@ This image was developed based on [jaimeps/docker-rl-gym](https://github.com/jai
 	- with [mdp_gridworld](https://github.com/IRLL/reinforcement_learning_class)
 - [PyGame Learning Environment](http://pygame-learning-environment.readthedocs.io/)
 
-** 5. Others:** 
+**5. Others:** 
 - [scikit-image](https://scikit-image.org/)
 - [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/index.html)
 - [h5py](http://www.h5py.org/)
