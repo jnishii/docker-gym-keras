@@ -33,7 +33,7 @@ This image was developed based on [jaimeps/docker-rl-gym](https://github.com/jai
 - [PyGame Learning Environment](http://pygame-learning-environment.readthedocs.io/)
 - [Roboschool](https://github.com/openai/roboschool)
 
-** 5. Others:** 
+**5. Others:** 
 - [scikit-image](https://scikit-image.org/)
 - [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/index.html)
 - [h5py](http://www.h5py.org/)
