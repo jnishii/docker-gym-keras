@@ -57,7 +57,7 @@ $ docker pull jnishii/docker-gym-keras
 
 ## Start Docker
 
-Just type the command `bin/docker-run.sh`, then Jupyter notebook will run.
+Just type `bin/docker-run.sh`, then Jupyter notebook will run.
 
 
 ## Bash login
