@@ -5,7 +5,7 @@
 A Docker image running OpenAI Gym, PLE, and Roboschool with Keras-rl on jupyter notebook/lab.
 This image was developed based on [jaimeps/docker-rl-gym](https://github.com/jaimeps/docker-rl-gym).
 
-**Attention:** GPU is not currently supported.
+**Attention:** CUDA driver is not currently installed.
 
 ## Installed Libraries
 
@@ -30,8 +30,9 @@ This image was developed based on [jaimeps/docker-rl-gym](https://github.com/jai
 **4. Environments:**
 - [openAI Gym](https://github.com/openai/gym)
 	- with [mdp_gridworld](https://github.com/IRLL/reinforcement_learning_class)
-- [PyGame Learning Environment](http://pygame-learning-environment.readthedocs.io/)
+	- without MuJoCo and Robotics (prepared Roboschool instead)
 - [Roboschool](https://github.com/openai/roboschool)
+- [PyGame Learning Environment](http://pygame-learning-environment.readthedocs.io/)
 
 **5. Others:** 
 - [scikit-image](https://scikit-image.org/)
